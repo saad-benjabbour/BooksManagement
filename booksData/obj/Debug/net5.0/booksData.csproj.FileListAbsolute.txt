@@ -1,0 +1,15 @@
+C:\Users\user\source\.CoreProjects\BooksManagement\booksData\obj\Debug\net5.0\booksData.csprojAssemblyReference.cache
+C:\Users\user\source\.CoreProjects\BooksManagement\booksData\obj\Debug\net5.0\booksData.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\.CoreProjects\BooksManagement\booksData\obj\Debug\net5.0\booksData.AssemblyInfoInputs.cache
+C:\Users\user\source\.CoreProjects\BooksManagement\booksData\obj\Debug\net5.0\booksData.AssemblyInfo.cs
+C:\Users\user\source\.CoreProjects\BooksManagement\booksData\obj\Debug\net5.0\booksData.csproj.CoreCompileInputs.cache
+C:\Users\user\source\.CoreProjects\BooksManagement\booksData\bin\Debug\net5.0\booksData.deps.json
+C:\Users\user\source\.CoreProjects\BooksManagement\booksData\bin\Debug\net5.0\booksData.runtimeconfig.json
+C:\Users\user\source\.CoreProjects\BooksManagement\booksData\bin\Debug\net5.0\booksData.runtimeconfig.dev.json
+C:\Users\user\source\.CoreProjects\BooksManagement\booksData\bin\Debug\net5.0\booksData.dll
+C:\Users\user\source\.CoreProjects\BooksManagement\booksData\bin\Debug\net5.0\ref\booksData.dll
+C:\Users\user\source\.CoreProjects\BooksManagement\booksData\bin\Debug\net5.0\booksData.pdb
+C:\Users\user\source\.CoreProjects\BooksManagement\booksData\obj\Debug\net5.0\booksData.dll
+C:\Users\user\source\.CoreProjects\BooksManagement\booksData\obj\Debug\net5.0\ref\booksData.dll
+C:\Users\user\source\.CoreProjects\BooksManagement\booksData\obj\Debug\net5.0\booksData.pdb
+C:\Users\user\source\.CoreProjects\BooksManagement\booksData\obj\Debug\net5.0\booksData.genruntimeconfig.cache
