@@ -45,7 +45,7 @@ JSON Web Token (JWT) is an open standard (RFC 7519) that defines a compact and s
 	Its pre-configured in this project as soon as you execute the app swagger will be prompted to you in your browser [Read About it](https://swagger.io/)<br>
 <div style="text-align:center">
 	<img src="images/postman.png" style="margin-right:50px; width="180px"; height="180px"">
-	<img src="images/swagger.png" style="margin-top:80px">
+	<img src="images/Swagger.png" style="margin-top:80px">
 </div>
 
 
